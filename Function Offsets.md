@@ -2,7 +2,7 @@
 
 ## US
 | Offset | Name |
-|:-: | :-: |001ecc58
+|:-: | :-: |
 |`0x00165744`| CommonCommands |
 |`0x00175510`| CafeCommands |
 |`0x00186e54`| NtrCoinTossCommands |
